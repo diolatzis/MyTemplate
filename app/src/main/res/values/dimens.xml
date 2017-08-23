@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Splash Activity -->
+    <dimen name="splashTopMargin">100dp</dimen>
+    <dimen name="splashTextSize">45sp</dimen>
+
+
+    <!-- toolbar -->
+    <dimen name="toolbarHeight">56dp</dimen>
+    <dimen name="toolbarExtendedHeight">128dp</dimen>
+    <dimen name="toolbarSubHeight">72dp</dimen>
+    <dimen name="toolbarElevation">1dp</dimen>
+    <dimen name="toolbarTitleLeftMargin">16dp</dimen>
+    <dimen name="toolbarTitleRightMargin">16dp</dimen>
+    <dimen name="toolbarTitleTopMargin">16dp</dimen>
+    <dimen name="toolbarExtendedTitleTopMargin">75dp</dimen>
+    <dimen name="toolbarButtonLeftRightMargin">5dp</dimen>
+    <dimen name="toolbarSecondButtonRightMargin">45dp</dimen>
+    <dimen name="toolbarButtonSize">45dp</dimen>
+    <dimen name="toolbarButtonTopMargin">5dp</dimen>
+    <dimen name="toolbarButtonPadding">10dp</dimen>
+
+</resources>
