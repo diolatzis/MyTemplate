@@ -12,6 +12,7 @@
 
         <activity
             android:name=".view.activity.SplashActivity"
+            android:theme="@style/SplashTheme"
             android:noHistory="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
