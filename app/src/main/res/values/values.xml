@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <integer name="splash_duration">2000</integer>
-    <integer name="slide_duration">400</integer>
+    <integer name="slide_duration">4000</integer>
     <integer name="fade_duration">150</integer>
     <integer name="drawer_close_duration">50</integer>
     <integer name="ripple_duration">50</integer>

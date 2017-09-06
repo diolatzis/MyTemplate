@@ -8,6 +8,7 @@
 
     <!-- toolbar -->
     <dimen name="toolbarHeight">56dp</dimen>
+    <dimen name="toolbarHeightNeg">-57dp</dimen>
     <dimen name="toolbarExtendedHeight">128dp</dimen>
     <dimen name="toolbarSubHeight">72dp</dimen>
     <dimen name="toolbarElevation">1dp</dimen>
